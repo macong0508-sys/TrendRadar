@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-14T15:18:50.128521+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2025-10-14T16:26:41.745165+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 13,
       "titles": [
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时59分 ~ 16时26分]"
+        },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
           "url": "https://wallstreetcn.com/articles/3757107",
@@ -34,20 +48,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 15时18分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
