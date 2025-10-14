@@ -1,285 +1,39 @@
 {
-  "generated_at": "2025-10-14T23:19:51.605633+08:00",
-  "total_titles_processed": 2178,
+  "generated_at": "2025-10-15T00:20:12.170088+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
           "url": "https://wallstreetcn.com/articles/3757125",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时59分 ~ 23时19分]"
-        },
-        {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 19时14分]"
-        },
-        {
-          "title": "OpenAI或将成为最大的无人公司",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            21,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
-          "url": "https://www.cls.cn/detail/2168170",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时37分]"
-        },
-        {
-          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
-          "url": "https://wallstreetcn.com/livenews/2987569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时18分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
-          "url": "https://www.cls.cn/detail/2168234",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 13时16分]"
-        },
-        {
-          "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
-          "url": "https://wallstreetcn.com/livenews/2986906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
-        },
-        {
-          "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2986954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
-          "url": "https://flash.jin10.com/detail/20251014030431270800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "Arm(ARM.O)盘后直线拉升涨超8%，据悉OpenAI正为博通AI芯片研发而与Arm合作。",
-          "url": "https://flash.jin10.com/detail/20251014062648196800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "市场消息：OpenAI正为了博通AI芯片研发而与软银集团旗下Arm控股合作。",
-          "url": "https://flash.jin10.com/detail/20251014062346558800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "中信证券：OpenAI“采购合同+股权”的合作模式，有利于整个AI生态的闭环",
-          "url": "https://wallstreetcn.com/livenews/2987067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
-          "url": "https://flash.jin10.com/detail/20251014055122671800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "Arm控股美股盘后上涨超8.7%。据The Information报道，OpenAI正为了博通人工智能（AI）芯片研发而与日本软银集团旗下Arm控股合作。",
-          "url": "https://wallstreetcn.com/livenews/2986990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美股三大股指低开，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。AMD涨超1%，英伟达跌超2%；沃尔玛涨1.8%，将与OpenAI合作，在ChatGPT平台上提供购物服务；富国银行股价上涨4.9%，创4月23日以来最大涨幅；美股稀土概念股大涨，USA Rare Earth涨超6%；美股加密货币概念股普跌，Coinbase跌超4%。纳斯达克中国金龙指数跌2.5%，阿里巴巴跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/2987574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌公司将与印度Andhra Pradesh签署1 GW数据中心协议。",
-          "url": "https://wallstreetcn.com/livenews/2986910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "谷歌公司宣布：到2027年将在美国南卡莱罗纳州投资90亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2986933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时19分]"
-        },
-        {
-          "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
-          "url": "https://wallstreetcn.com/livenews/2987586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时19分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/2986963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "谷歌将与印度安得拉邦签署1吉瓦数据中心合作协议。",
-          "url": "https://flash.jin10.com/detail/20251013235710945800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
-          "url": "https://wallstreetcn.com/livenews/2987601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "市场消息：谷歌(GOOG.O)宣布至2027年将在南卡罗来纳州投资90亿美元。",
-          "url": "https://flash.jin10.com/detail/20251014020340523800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "[00时19分 ~ 00时20分]"
         }
       ]
     }
