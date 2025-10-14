@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T06:15:47.800358+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-10-15T07:14:45.661060+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时14分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
