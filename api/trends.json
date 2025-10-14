@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T16:26:41.745165+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-10-14T17:18:23.942451+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 17时18分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 17时18分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
