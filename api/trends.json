@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T12:19:26.890959+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-10-14T13:16:19.545155+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时16分]"
+        },
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 13时16分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -49,17 +63,15 @@
           "time_info": "[09时07分 ~ 11时37分]"
         },
         {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
+          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
+          "url": "https://www.cls.cn/detail/2168234",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            4
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时59分 ~ 12时19分]"
+          "time_info": "[11时36分 ~ 13时16分]"
         },
         {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
-          "url": "https://www.cls.cn/detail/2168234",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 12时19分]"
         },
         {
           "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
