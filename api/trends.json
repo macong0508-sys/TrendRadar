@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T19:14:10.433348+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2025-10-14T20:35:39.571613+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时59分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[10时59分 ~ 20时35分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
