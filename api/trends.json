@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T13:16:23.322705+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-10-15T14:25:30.868997+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 14时25分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 14时25分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -68,19 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时16分]"
-        },
-        {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 13时16分]"
         },
         {
           "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
