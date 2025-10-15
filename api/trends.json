@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T09:11:07.281838+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-10-15T11:03:12.860255+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -21,6 +21,18 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 11时03分]"
+        },
+        {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
           "url": "https://flash.jin10.com/detail/20251015044342683800",
           "source": "金十数据",
@@ -33,15 +45,15 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
-          "url": "https://www.cls.cn/detail/2169533",
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
           "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
