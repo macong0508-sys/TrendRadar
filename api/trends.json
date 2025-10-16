@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T18:19:53.453127+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2025-10-16T19:14:21.469574+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             9,
             8,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 19时14分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
