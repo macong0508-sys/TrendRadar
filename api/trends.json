@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-17T07:20:56.699340+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-10-17T09:09:00.869998+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
+          "url": "https://www.zhihu.com/question/1961867297695166783",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
