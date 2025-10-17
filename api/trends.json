@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T18:19:50.921836+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-10-17T19:16:40.805080+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 19时16分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
