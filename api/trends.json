@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T13:16:41.979675+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-10-21T14:25:28.248487+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -23,18 +23,6 @@
           "time_info": "[00时21分 ~ 11时05分]"
         },
         {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 13时16分]"
-        },
-        {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
           "source": "华尔街见闻",
@@ -42,8 +30,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时25分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            5,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时16分]"
+          "time_info": "[11时05分 ~ 14时25分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -150,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -172,7 +173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
