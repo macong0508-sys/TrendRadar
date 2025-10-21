@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-21T19:14:15.744379+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2025-10-21T20:33:23.324273+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时20分 ~ 20时33分]"
+        },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
           "url": "https://www.zhihu.com/question/1963642369963426172",
@@ -23,19 +37,6 @@
           "time_info": "[00时21分 ~ 11时05分]"
         },
         {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时20分 ~ 19时14分]"
-        },
-        {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -47,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时05分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -60,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
