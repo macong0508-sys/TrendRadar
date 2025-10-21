@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T18:19:18.360399+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-10-21T19:14:15.744379+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时05分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时05分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
