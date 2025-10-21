@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T22:16:59.299476+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2025-10-21T23:17:34.324510+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -31,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时20分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[12时20分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -62,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时05分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[11时05分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -74,8 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
