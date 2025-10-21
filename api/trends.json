@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T09:13:06.110397+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2025-10-21T11:05:39.731487+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -19,8 +19,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时05分]"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时05分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -34,15 +46,15 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "DeepSeek开源新模型DeepSeek-OCR",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -59,7 +71,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "为什么 Gemini 2.5pro 回答问题的时候 latex 格式总渲染不出数学公式的样子？",
+          "url": "https://www.zhihu.com/question/1917375398460781402",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         }
       ]
     },
@@ -109,11 +132,12 @@
           "url": "https://www.cls.cn/detail/2175118",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时05分]"
         }
       ]
     }
