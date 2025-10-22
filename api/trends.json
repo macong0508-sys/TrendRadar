@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T14:25:49.500212+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-10-22T15:17:42.516339+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "01时17分"
         },
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时17分]"
+        },
+        {
           "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
           "url": "https://wallstreetcn.com/livenews/2991386",
           "source": "华尔街见闻-快讯",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时26分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时25分]"
         },
         {
           "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
@@ -259,11 +260,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时17分]"
         }
       ]
     }
