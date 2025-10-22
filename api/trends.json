@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T19:15:30.029009+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2025-10-22T20:37:49.985557+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 20时37分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -207,7 +207,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
