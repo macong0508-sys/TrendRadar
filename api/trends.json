@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T15:18:21.887907+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-10-23T16:29:10.897103+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 16时29分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时29分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
