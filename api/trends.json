@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T07:15:53.254353+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-10-23T09:12:03.821665+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "谷歌发布了Willow芯片的量子计算突破",
