@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-23T16:29:10.897103+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2025-10-23T17:19:54.694163+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 12,
       "titles": [
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时20分 ~ 17时19分]"
+        },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
           "url": "https://wallstreetcn.com/articles/3757674",
@@ -18,21 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 16时29分]"
-        },
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时20分 ~ 16时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时11分 ~ 17时19分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
