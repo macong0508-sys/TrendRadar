@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T12:19:42.916835+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2025-10-24T13:18:07.973765+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 13时18分]"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
