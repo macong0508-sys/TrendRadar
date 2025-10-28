@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T06:15:59.133069+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-10-29T07:15:15.689865+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
