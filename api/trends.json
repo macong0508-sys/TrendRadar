@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T12:18:30.818065+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-10-30T13:16:24.971934+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -196,7 +196,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -204,11 +204,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 13时16分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -218,8 +219,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 13时16分]"
         },
         {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
@@ -244,6 +245,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
+          "url": "https://www.zhihu.com/question/1966652250177893275",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "OpenAI回应筹备IPO",
