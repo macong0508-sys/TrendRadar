@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:19:05.206509+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-10-30T19:15:52.463896+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -245,8 +245,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
