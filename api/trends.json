@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T09:16:21.824260+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-10-30T11:09:17.427941+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -199,6 +199,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时09分]"
+        },
+        {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
           "url": "https://wallstreetcn.com/livenews/2996237",
           "source": "华尔街见闻-快讯",
@@ -211,15 +222,15 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时09分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -234,24 +245,13 @@
           "time_info": "[05时18分 ~ 06时16分]"
         },
         {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
           "title": "OpenAI回应筹备IPO",
           "url": "https://flash.jin10.com/detail/20251030082103049800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
