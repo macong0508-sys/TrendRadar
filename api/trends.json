@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:14:39.501511+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-11-02T07:15:49.258136+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时15分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时16分 ~ 07时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -35,27 +48,16 @@
           "time_info": "[00时17分 ~ 05时14分]"
         },
         {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时16分 ~ 06时14分]"
-        },
-        {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
           "url": "https://wallstreetcn.com/articles/3758475",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[02时20分 ~ 07时15分]"
         }
       ]
     }
