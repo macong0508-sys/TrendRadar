@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:15:25.293188+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-11-01T23:15:34.151265+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时14分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[15时14分 ~ 23时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -58,11 +58,12 @@
           "ranks": [
             19,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时29分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[20时29分 ~ 23时15分]"
         }
       ]
     },
