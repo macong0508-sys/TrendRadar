@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T19:12:58.129534+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-11-01T20:30:17.245323+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,37 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 20时30分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -51,26 +82,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 09时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 19时12分]"
         }
       ]
     }
