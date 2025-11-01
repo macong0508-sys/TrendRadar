@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T05:14:35.943366+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-02T06:14:39.501511+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 06时14分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -54,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时20分 ~ 06时14分]"
         }
       ]
     }
