@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T17:19:42.186937+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2025-11-04T18:21:26.994891+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时17分 ~ 17时19分]"
+          "appearance_count": 13,
+          "time_info": "[06时17分 ~ 18时21分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
