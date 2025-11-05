@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T07:15:54.874324+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2025-11-05T09:13:43.093448+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -69,6 +69,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
