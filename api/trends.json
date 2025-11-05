@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T09:13:43.093448+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-11-05T11:10:44.621062+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -75,17 +75,18 @@
           "url": "https://www.cls.cn/detail/2191270",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 11时10分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
@@ -94,9 +95,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     }
