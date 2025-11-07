@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:16:23.546548+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-11-07T16:23:59.569591+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 16时23分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -53,11 +53,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 16时23分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -147,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时15分 ~ 15时16分]"
+          "appearance_count": 14,
+          "time_info": "[06时15分 ~ 16时23分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
