@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T19:16:00.818526+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2025-11-11T20:32:50.687786+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时32分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
