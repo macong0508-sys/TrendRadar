@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:15:22.486749+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-11-12T09:15:00.091328+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时15分]"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -61,7 +83,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -72,7 +94,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
