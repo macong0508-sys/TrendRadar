@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:19:45.930641+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2025-11-13T19:16:05.313414+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时22分 ~ 18时19分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -67,6 +78,17 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
@@ -89,17 +111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -130,7 +141,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -155,6 +166,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
+          "url": "https://flash.jin10.com/detail/20251113184640966800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
+          "url": "https://flash.jin10.com/detail/20251113184617045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -188,34 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
         }
       ]
     }
