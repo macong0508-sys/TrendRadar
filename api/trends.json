@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-13T12:22:35.829248+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-11-13T13:17:33.697442+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
-        {
-          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
-          "url": "https://flash.jin10.com/detail/20251113050804559800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
         {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
@@ -28,8 +17,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 13时17分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -49,11 +49,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时17分]"
         },
         {
           "title": "孙正义为何抛弃英伟达转投OpenAI",
@@ -105,8 +106,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
