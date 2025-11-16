@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T09:17:42.137851+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-11-16T11:15:48.640398+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 09时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 11时15分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
