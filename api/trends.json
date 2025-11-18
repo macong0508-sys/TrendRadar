@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T20:33:18.662678+08:00",
+  "generated_at": "2025-11-18T21:33:50.739380+08:00",
   "total_titles_processed": 1765,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
