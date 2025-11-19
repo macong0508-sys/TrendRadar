@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T12:20:36.927143+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-11-19T13:17:30.252636+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时17分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -63,23 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时17分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -90,8 +79,33 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时20分]"
+          "time_info": "[11时09分 ~ 13时17分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时17分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -129,18 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
         },
         {
           "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
@@ -202,8 +204,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时17分]"
         }
       ]
     }
