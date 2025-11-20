@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T13:17:01.375080+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-11-20T14:24:07.257658+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             5,
             9,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时24分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 13时17分]"
+          "appearance_count": 18,
+          "time_info": "[01时15分 ~ 14时24分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -73,8 +74,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时23分 ~ 13时17分]"
+          "appearance_count": 16,
+          "time_info": "[02时23分 ~ 14时24分]"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 14时24分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -97,18 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时17分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
