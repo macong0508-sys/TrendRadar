@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T12:19:57.522266+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-11-21T13:17:17.189214+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 13时17分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -199,7 +200,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
