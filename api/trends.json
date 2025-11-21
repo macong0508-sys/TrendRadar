@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:15:33.895350+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-11-21T09:11:59.664093+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1974854700256944776",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时11分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时11分]"
         },
         {
           "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 09时11分]"
         },
         {
           "title": "Gemini3",
@@ -149,7 +151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -160,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -171,7 +173,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
