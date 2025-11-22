@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:14:09.514720+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-11-22T23:14:34.740053+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时14分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -85,8 +85,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时14分]"
+        },
+        {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时14分]"
+          "time_info": "[21时21分 ~ 23时14分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 22时14分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
