@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:22:14.416442+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-11-22T15:14:53.160069+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 15时14分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 15时14分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 15时14分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时14分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
