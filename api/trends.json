@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T16:20:01.979306+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-11-22T17:15:49.723676+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 17时15分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -26,11 +26,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时01分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时01分 ~ 17时15分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 17时15分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时01分 ~ 15时14分]"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 16时20分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
