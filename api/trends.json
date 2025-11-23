@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T15:15:50.370504+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-11-23T16:20:08.718001+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时20分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 16时20分]"
         }
       ]
     }
