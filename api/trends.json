@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T09:17:16.020867+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-11-24T11:21:13.626875+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             23,
             21,
             28,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时21分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -32,7 +33,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
