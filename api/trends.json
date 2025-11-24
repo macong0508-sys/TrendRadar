@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T15:17:09.336901+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-11-24T16:24:00.943602+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -22,11 +22,12 @@
             18,
             5,
             9,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 14时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时24分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -41,13 +42,24 @@
           "time_info": "[12时31分 ~ 13时18分]"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
           "url": "https://flash.jin10.com/detail/20251124150257144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
