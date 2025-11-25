@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T21:32:11.049834+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2025-11-25T22:17:18.450379+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[18时19分 ~ 22时17分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -60,8 +60,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时17分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[15时17分 ~ 22时17分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -108,15 +120,16 @@
           "time_info": "07时15分"
         },
         {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
           "source": "财联社热门",
           "ranks": [
-            12
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
@@ -141,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 20时34分]"
-        },
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
