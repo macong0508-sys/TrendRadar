@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-25T22:17:18.450379+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2025-11-25T23:18:46.247336+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时19分 ~ 23时18分]"
+        },
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
           "url": "https://www.cls.cn/detail/2209592",
@@ -35,20 +49,6 @@
           "time_info": "[13时17分 ~ 20时34分]"
         },
         {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 22时17分]"
-        },
-        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时17分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[15时17分 ~ 23时18分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -69,11 +69,25 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[19时15分 ~ 23时18分]"
+        },
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时18分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -118,18 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
@@ -321,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.28%，标普500指数跌0.06%，纳指跌0.39%。谷歌母公司Alphabet涨2%，此前报道称，谷歌正与Meta商讨一项价值数十亿美元的协议，计划自2027年起向Meta的数据中心供应定制AI芯片。英伟达(NVDA.O)跌4%。阿里巴巴(BABA.N)涨2%。",
+          "url": "https://flash.jin10.com/detail/20251125223046114800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
