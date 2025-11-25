@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T16:23:09.007646+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-11-25T17:19:48.706082+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 17时19分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -94,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时19分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
