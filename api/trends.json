@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:18:48.607323+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-11-27T19:15:21.618959+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时11分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 19时15分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -62,11 +62,12 @@
             13,
             6,
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 19时15分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -99,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -178,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 19时15分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
