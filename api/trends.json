@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T05:14:55.673924+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-11-28T06:15:51.042913+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -28,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
+          "url": "https://wallstreetcn.com/articles/3760220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -47,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -75,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时15分]"
         }
       ]
     }
