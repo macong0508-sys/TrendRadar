@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:11:06.921442+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2025-11-28T11:08:26.100483+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 09时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 11时08分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -27,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 11时08分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -36,11 +37,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时11分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 11时08分]"
+        },
+        {
+          "title": "DeepSeek推出新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -87,7 +100,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -112,6 +125,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
+          "url": "https://flash.jin10.com/detail/20251128095923576800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
