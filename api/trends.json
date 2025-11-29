@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-29T17:16:29.433334+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-11-29T18:16:13.744659+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 18时16分]"
+        },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
@@ -18,21 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时08分 ~ 17时16分]"
-        },
-        {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时08分 ~ 18时16分]"
         }
       ]
     },
