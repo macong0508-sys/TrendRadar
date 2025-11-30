@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T06:15:22.825561+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-01T07:15:14.495413+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -61,8 +61,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     },
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     }
