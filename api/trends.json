@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:31:03.278848+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-11-30T21:23:50.053935+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时23分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时23分]"
         }
       ]
     },
@@ -92,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 20时31分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 21时23分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -124,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 20时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 21时23分]"
         }
       ]
     }
