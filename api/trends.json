@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:16:56.411336+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-12-02T20:35:23.689469+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 20时35分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[09时14分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[09时14分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时18分 ~ 16时24分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -164,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 20时35分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -227,7 +238,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -235,11 +246,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[11时15分 ~ 20时35分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -277,6 +289,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时18分]"
+        },
+        {
+          "title": "OpenAI拉响红色警报",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%8B%89%E5%93%8D%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
