@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:19:40.730537+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2025-12-02T19:16:56.411336+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -42,11 +42,12 @@
             4,
             11,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时14分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时14分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -56,11 +57,12 @@
             7,
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -73,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时14分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时14分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -162,8 +164,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 19时16分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -236,8 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时15分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时15分 ~ 19时16分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
