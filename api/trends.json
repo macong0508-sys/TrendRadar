@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T16:24:11.480564+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-12-02T17:22:46.762815+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 17时22分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 17时22分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 17时22分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -69,11 +69,12 @@
           "ranks": [
             6,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 17时22分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -127,11 +128,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -155,11 +157,12 @@
             17,
             15,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时22分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -232,8 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 17时22分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
