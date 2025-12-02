@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T02:26:50.736605+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-03T03:17:04.807061+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 03时17分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -43,17 +54,6 @@
           "time_info": "[00时54分 ~ 01时20分]"
         },
         {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -71,6 +71,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
+        },
+        {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
@@ -79,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -91,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -103,20 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
         }
       ]
     },
@@ -133,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时17分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
