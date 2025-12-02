@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:17:04.807061+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-12-03T04:20:36.874510+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 04时20分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -104,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -116,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         }
       ]
     },
@@ -134,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时20分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
