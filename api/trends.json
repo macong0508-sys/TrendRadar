@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T04:20:36.874510+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-03T05:16:46.263761+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 05时16分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -78,11 +78,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -93,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -105,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -117,14 +118,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -135,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 05时16分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -148,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时20分]"
+        },
+        {
+          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
+          "url": "https://flash.jin10.com/detail/20251203044535141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     }
