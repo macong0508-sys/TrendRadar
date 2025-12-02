@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:34:46.526304+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2025-12-02T22:18:28.351488+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -59,11 +59,12 @@
             12,
             5,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -73,11 +74,12 @@
             6,
             9,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -123,11 +125,23 @@
           "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时18分]"
+        },
+        {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -174,11 +188,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时17分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[13时17分 ~ 22时18分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -249,11 +264,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时15分 ~ 21时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时15分 ~ 22时18分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
