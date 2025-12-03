@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T20:35:52.943111+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2025-12-03T21:33:34.935648+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
@@ -104,7 +104,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }
@@ -134,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[09时14分 ~ 21时33分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
