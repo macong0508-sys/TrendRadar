@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T14:26:46.252992+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-03T15:19:22.260298+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 15时19分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时19分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -204,6 +205,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "prompt",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大模型 Agent 的核心还是 prompt？",
+          "url": "https://www.zhihu.com/question/628670548",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
