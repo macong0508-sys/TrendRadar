@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:23:22.588074+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-12-03T17:21:36.857584+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 17时21分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时21分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
