@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:15:10.183529+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-12-03T12:25:43.158347+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -27,11 +27,12 @@
           "url": "https://wallstreetcn.com/articles/3760564",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 11时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时25分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时20分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
