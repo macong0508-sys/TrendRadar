@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T09:15:01.433043+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2025-12-03T11:15:10.183529+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时15分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -118,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 11时14分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
