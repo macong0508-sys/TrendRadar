@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:14:23.290422+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-06T23:15:05.325635+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -22,6 +22,19 @@
           "time_info": "[12时18分 ~ 21时23分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时15分 ~ 23时15分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时18分 ~ 09时11分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时11分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     },
@@ -112,8 +123,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时18分 ~ 22时14分]"
+          "appearance_count": 18,
+          "time_info": "[12时18分 ~ 23时15分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -170,8 +181,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时30分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时30分 ~ 23时15分]"
         }
       ]
     }
