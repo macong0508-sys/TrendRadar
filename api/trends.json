@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T06:15:44.152849+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-07T07:15:15.847501+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -27,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 07时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     },
