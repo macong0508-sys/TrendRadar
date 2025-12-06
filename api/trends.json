@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T09:11:20.915860+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-12-06T11:06:56.259415+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 11时06分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
           "url": "https://wallstreetcn.com/livenews/3016097",
@@ -86,15 +98,15 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "OpenAI最快将于下周发布GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "11时06分"
         }
       ]
     }
