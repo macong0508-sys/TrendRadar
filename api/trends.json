@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T13:16:07.478858+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-12-06T14:22:53.538889+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[04时18分 ~ 09时11分]"
         },
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时22分]"
+        },
+        {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
           "url": "https://wallstreetcn.com/livenews/3016155",
           "source": "华尔街见闻-快讯",
@@ -42,18 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时16分]"
         },
         {
           "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时22分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -104,11 +105,12 @@
           "ranks": [
             8,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时06分 ~ 14时22分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
