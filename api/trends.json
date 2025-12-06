@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T04:17:31.574453+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-07T05:14:24.631854+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时14分]"
         }
       ]
     },
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
