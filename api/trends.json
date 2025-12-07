@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:15:15.847501+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-07T09:21:51.115107+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时21分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时21分]"
         }
       ]
     },
