@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T18:19:55.537894+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-08T19:16:12.800815+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时30分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 19时16分]"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
