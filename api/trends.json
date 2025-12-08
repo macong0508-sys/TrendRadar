@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-08T11:18:56.748392+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-12-08T12:31:17.116202+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
           "url": "https://flash.jin10.com/detail/20251208040048349800",
@@ -26,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
