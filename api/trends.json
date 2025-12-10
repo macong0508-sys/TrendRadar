@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T21:35:02.457801+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2025-12-10T22:19:43.724006+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://wallstreetcn.com/livenews/3018469",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时19分]"
         },
         {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
@@ -61,7 +62,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -94,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -169,7 +170,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
