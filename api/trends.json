@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:19:59.261834+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-12-10T12:30:57.134468+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时30分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
