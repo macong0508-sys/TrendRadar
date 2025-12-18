@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:16:38.708825+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2025-12-18T20:34:54.800697+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时34分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -172,8 +172,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时26分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[14时26分 ~ 20时34分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
