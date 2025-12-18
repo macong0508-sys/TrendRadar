@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:19:00.378558+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2025-12-18T19:16:38.708825+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时27分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -168,11 +168,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时26分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 19时16分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
