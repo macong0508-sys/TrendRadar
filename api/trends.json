@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:15:54.768943+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-12-20T16:21:01.385925+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -52,6 +53,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时17分 ~ 16时21分]"
+        },
+        {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
@@ -64,19 +78,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时16分 ~ 11时12分]"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 15时15分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
