@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:33:01.098524+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-02T21:31:27.214345+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -17,8 +17,23 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 21时31分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "time_info": "[17时20分 ~ 21时31分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -35,20 +50,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时33分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时14分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -131,11 +143,12 @@
             3,
             12,
             19,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时27分 ~ 20时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时27分 ~ 21时31分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -148,11 +161,12 @@
             19,
             14,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时21分 ~ 20时33分]"
+          "appearance_count": 28,
+          "time_info": "[00时21分 ~ 21时31分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
