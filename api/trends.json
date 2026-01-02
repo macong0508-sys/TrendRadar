@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:17:52.271579+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-01-02T19:15:52.427087+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 18时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 19时15分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时15分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时14分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -130,8 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -147,8 +148,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 18时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时21分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
