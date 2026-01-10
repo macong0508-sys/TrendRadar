@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:17:27.697841+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-01-10T19:14:32.556464+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时17分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时17分 ~ 19时14分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时16分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -59,11 +59,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -87,11 +88,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
