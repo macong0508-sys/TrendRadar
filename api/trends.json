@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T20:32:49.520997+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-11T21:28:03.951827+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时19分 ~ 21时28分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
