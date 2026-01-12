@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T03:19:36.906838+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-01-13T04:20:54.346608+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
+          "url": "https://flash.jin10.com/detail/20260113030706645800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
