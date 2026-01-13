@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:22:12.894484+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2026-01-13T23:21:30.207373+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时15分 ~ 22时22分]"
+          "appearance_count": 21,
+          "time_info": "[09时15分 ~ 23时21分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时15分 ~ 22时22分]"
+          "appearance_count": 21,
+          "time_info": "[09时15分 ~ 23时21分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -71,6 +71,19 @@
           "time_info": "07时14分"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时38分 ~ 23时21分]"
+        },
+        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
@@ -91,18 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 22时22分]"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
@@ -323,8 +324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时25分 ~ 22时22分]"
+          "appearance_count": 12,
+          "time_info": "[16时25分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
