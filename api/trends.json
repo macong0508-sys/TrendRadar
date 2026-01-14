@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:25:02.147707+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-01-14T17:26:20.271471+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时26分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -106,7 +107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
