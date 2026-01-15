@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:22:58.157829+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-15T16:26:41.665545+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
@@ -120,11 +120,12 @@
             12,
             10,
             14,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时26分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
