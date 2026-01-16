@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T15:22:13.488127+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-01-16T16:24:41.645740+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时24分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
