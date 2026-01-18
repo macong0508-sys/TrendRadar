@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:32:07.520533+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-01-18T21:26:53.572039+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时25分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 21时26分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -43,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时39分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[12时39分 ~ 21时26分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时26分]"
         }
       ]
     }
