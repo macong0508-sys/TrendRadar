@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:19:36.125231+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-28T07:18:36.331288+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -124,17 +124,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -143,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -155,8 +144,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时18分]"
         }
       ]
     }
