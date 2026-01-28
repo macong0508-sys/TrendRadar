@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:41:29.479185+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-01-28T13:25:07.199671+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时25分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -111,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 12时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 13时25分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -189,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 13时25分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
