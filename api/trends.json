@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:37:42.609713+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-01-29T16:34:13.141969+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时34分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
