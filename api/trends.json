@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:40:17.557741+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-29T14:41:05.208013+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 14时41分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -34,7 +35,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -46,6 +47,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中医馆 民营医院 基层医院",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子14天花3.7万在民营医院看男科没改善，公立医院：没这病",
+          "url": "https://news.ifeng.com/c/8qJAVyxpXeF",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         }
       ]
     }
