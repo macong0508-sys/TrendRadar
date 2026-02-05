@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:36:50.020808+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-02-05T19:33:06.169494+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 19时33分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 19时33分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -33,17 +46,15 @@
           "time_info": "[12时10分 ~ 16时37分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时36分]"
+          "time_info": "[15时47分 ~ 19时33分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时36分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -289,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 19时33分]"
         }
       ]
     },
