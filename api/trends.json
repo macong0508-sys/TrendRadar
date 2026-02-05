@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:33:06.169494+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-02-05T20:52:55.340386+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 20时52分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -50,11 +50,12 @@
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 20时52分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -289,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 20时52分]"
         }
       ]
     },
