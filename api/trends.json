@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T20:57:31.633367+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-02-12T22:10:43.821532+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,12 @@
           "ranks": [
             7,
             8,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 20时57分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 22时10分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
