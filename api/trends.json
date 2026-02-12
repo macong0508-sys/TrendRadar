@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:48:44.359692+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-02-12T16:40:38.034744+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 16时40分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -53,8 +53,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时48分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 16时40分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 16时40分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -70,30 +84,17 @@
           "time_info": "[01时03分 ~ 09时50分]"
         },
         {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时25分 ~ 15时48分]"
-        },
-        {
           "title": "从Deepseek到Seedance中国AI成了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时40分]"
         }
       ]
     },
