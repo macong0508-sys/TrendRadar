@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T15:48:09.605547+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-02-13T16:38:15.177145+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 16时38分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -54,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 15时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 16时38分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -77,11 +77,24 @@
           "source": "今日头条",
           "ranks": [
             29,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 16时38分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时55分 ~ 15时48分]"
+          "time_info": "[15时47分 ~ 16时38分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -96,26 +109,16 @@
           "time_info": "[14时55分 ~ 15时48分]"
         },
         {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "DeepSeek回应被指冷淡",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 16时38分]"
         }
       ]
     },
