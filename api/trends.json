@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T13:57:03.207668+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-13T14:56:04.137326+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -176,7 +176,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -205,8 +205,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 13时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 14时56分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -220,11 +220,12 @@
             25,
             15,
             13,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 13时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 14时56分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -233,11 +234,34 @@
           "ranks": [
             1,
             10,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 13时57分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 14时56分]"
+        },
+        {
+          "title": "OpenAI指责DeepSeek“抄袭”背后",
+          "url": "https://www.toutiao.com/trending/7606207773960834579/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
         }
       ]
     }
