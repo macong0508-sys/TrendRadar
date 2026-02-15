@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:40:15.965435+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-02-15T21:42:58.172662+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时51分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时51分 ~ 21时42分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -108,11 +108,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -131,7 +132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     }
