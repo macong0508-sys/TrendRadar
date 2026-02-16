@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T14:04:42.669912+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-02-16T15:51:45.670675+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[05时20分 ~ 07时22分]"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 15时51分]"
+        },
+        {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
           "url": "https://flash.jin10.com/detail/20260216054636166800",
           "source": "金十数据",
@@ -60,25 +73,13 @@
           "time_info": "[05时20分 ~ 07时22分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时04分]"
-        },
-        {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2006637072895738078",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -98,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 14时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 15时51分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
