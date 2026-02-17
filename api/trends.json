@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T04:32:39.015406+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-02-18T05:32:01.413836+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时32分]"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
