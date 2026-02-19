@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T05:28:53.013837+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-02-20T06:27:33.683097+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时27分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
