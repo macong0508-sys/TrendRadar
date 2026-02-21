@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T18:22:10.252361+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-21T19:19:14.852289+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -81,6 +81,17 @@
           "time_info": "[06时22分 ~ 09时31分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "OpenAI创始人点赞中国大模型",
           "url": "https://www.toutiao.com/trending/7608951834689932827/",
           "source": "今日头条",
@@ -107,8 +118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时03分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 19时19分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -120,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时22分 ~ 18时22分]"
+          "appearance_count": 16,
+          "time_info": "[06时22分 ~ 19时19分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
