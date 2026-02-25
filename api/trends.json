@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:51:27.254339+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-02-26T04:31:45.696336+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 04时31分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 04时31分]"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
