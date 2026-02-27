@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:48:59.085224+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-02-27T14:46:25.799954+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时46分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时48分]"
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时41分]"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时48分]"
         },
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
@@ -85,7 +86,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -118,7 +119,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -185,6 +186,18 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时46分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -205,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",
