@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T19:29:19.402858+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2026-03-03T20:44:20.254008+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时44分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
