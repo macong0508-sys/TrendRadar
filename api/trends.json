@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:59:34.866684+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2026-03-05T22:50:50.688264+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
@@ -122,7 +122,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -177,7 +177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -191,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
+          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
