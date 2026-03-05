@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T12:09:12.979489+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-03-05T13:45:15.829923+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
@@ -92,7 +92,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
