@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-03-09T03:21:12.442317+08:00",
-  "total_titles_processed": 413,
-  "failed_sources": [],
+  "generated_at": "2026-03-09T04:22:34.252567+08:00",
+  "total_titles_processed": 426,
+  "failed_sources": [
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
