@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:23:21.732620+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-03-15T00:26:11.669109+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 09时42分]"
-        },
-        {
-          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
-          "url": "https://wallstreetcn.com/livenews/3070070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 15时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
-          "url": "https://flash.jin10.com/detail/20260314081810552800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
