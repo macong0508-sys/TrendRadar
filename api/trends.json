@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T04:34:34.794900+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-03-17T05:35:19.234145+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时35分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
