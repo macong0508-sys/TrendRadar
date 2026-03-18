@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:43:59.751509+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-03-18T17:52:36.071082+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 16时43分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 17时52分]"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -129,11 +130,12 @@
           "ranks": [
             3,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时52分]"
         }
       ]
     }
