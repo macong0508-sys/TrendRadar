@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:21:05.789984+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-22T06:19:57.098776+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
