@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T07:20:53.212000+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-03-22T09:50:57.938808+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时50分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
