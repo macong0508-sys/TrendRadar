@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T05:34:07.767001+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-03-25T06:25:38.229964+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,19 @@
           "time_info": "[04时12分 ~ 04时37分]"
         },
         {
+          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时25分]"
+        },
+        {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
           "url": "https://flash.jin10.com/detail/20260325034535690800",
           "source": "金十数据",
@@ -54,16 +67,17 @@
           "time_info": "[04时12分 ~ 04时37分]"
         },
         {
-          "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076186",
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            23
+            6,
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时25分]"
         },
         {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
@@ -88,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时37分]"
-        },
-        {
-          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
-          "url": "https://wallstreetcn.com/livenews/3076185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时34分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
@@ -254,8 +256,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时25分]"
         }
       ]
     }
