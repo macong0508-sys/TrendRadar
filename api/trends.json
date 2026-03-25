@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T20:59:05.495903+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-03-25T22:19:28.748499+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
@@ -36,8 +36,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 20时59分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 22时19分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -270,6 +270,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。 该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德国思爱普Sap，预计年收入将在2031年达到150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
           "url": "https://flash.jin10.com/detail/20260325063733355800",
           "source": "金十数据",
@@ -295,7 +306,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌公司Quantum AI拓展量子计算研究，将中性原子量子计算（Neutral Atom Quantum Computing）纳入其中。",
@@ -318,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美股存储板块走低，此前Google Research推出了TurboQuant",
+          "url": "https://wallstreetcn.com/livenews/3076731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "谷歌公司：开源安卓Auto OS SDV平台。",
