@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T12:17:17.099989+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-03-25T13:58:49.063879+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -46,11 +46,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时58分]"
         },
         {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
@@ -78,6 +79,18 @@
           "time_info": "[04时37分 ~ 06时25分]"
         },
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时58分]"
+        },
+        {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
           "url": "https://flash.jin10.com/detail/20260325034535690800",
           "source": "金十数据",
@@ -88,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时37分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时58分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -101,18 +126,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 06时25分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时17分]"
         },
         {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
@@ -192,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
