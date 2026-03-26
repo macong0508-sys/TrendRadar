@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:49:21.264787+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-03-26T19:46:34.989394+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时31分 ~ 18时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时31分 ~ 19时46分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时46分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时49分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -118,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 18时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 19时46分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -150,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 18时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 19时46分]"
         }
       ]
     }
