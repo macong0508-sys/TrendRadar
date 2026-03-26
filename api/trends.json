@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-26T09:56:09.843894+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-03-26T12:32:32.000933+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时32分]"
+        },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
           "url": "https://flash.jin10.com/detail/20260326012232443800",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时56分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2325042",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -94,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 12时32分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -109,6 +120,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时55分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
