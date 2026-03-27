@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T04:34:17.189608+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-03-28T05:31:18.375538+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时34分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
-          "url": "https://flash.jin10.com/detail/20260328013224717800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -38,11 +27,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -52,11 +42,12 @@
             18,
             20,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -68,8 +59,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时31分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
+          "url": "https://flash.jin10.com/detail/20260328013224717800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
