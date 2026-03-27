@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T12:32:05.869505+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-03-27T14:10:44.624499+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 14时10分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -156,6 +158,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
+          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            9,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时24分 ~ 14时10分]"
+        },
+        {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
@@ -166,20 +183,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 07时28分]"
-        },
-        {
-          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
-          "url": "https://www.zhihu.com/question/2015379461017659100",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 12时32分]"
         }
       ]
     }
