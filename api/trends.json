@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T09:56:07.309002+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-03-27T12:32:05.869505+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时32分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -77,7 +88,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -104,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
+        },
+        {
+          "title": "ChatGPT的心脏长什么样",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E7%9A%84%E5%BF%83%E8%84%8F%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
@@ -152,11 +174,12 @@
           "ranks": [
             19,
             17,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 09时56分]"
+          "appearance_count": 6,
+          "time_info": "[06时24分 ~ 12时32分]"
         }
       ]
     }
