@@ -1,124 +1,44 @@
 {
-  "generated_at": "2026-03-28T23:27:33.043220+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-03-29T00:28:55.804313+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 14时53分]"
-        },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            18,
-            19,
-            12,
-            14,
-            15,
-            13
+            17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时49分 ~ 23时27分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            14,
-            17,
-            16,
-            21,
-            18,
-            20,
-            24,
-            23,
-            27,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时49分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            20,
-            15,
-            13,
-            14,
-            19,
-            16,
-            22,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时49分 ~ 23时27分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
-          "url": "https://flash.jin10.com/detail/20260328013224717800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "00时28分"
         },
         {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 20时43分]"
-        },
-        {
-          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260328014753556800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "00时28分"
         }
       ]
     }
