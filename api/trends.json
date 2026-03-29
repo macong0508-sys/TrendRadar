@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T20:44:10.140086+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-03-29T21:50:44.990806+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时10分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[14时10分 ~ 21时50分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,11 +31,12 @@
             16,
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 20时44分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 21时50分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -82,6 +83,17 @@
           "time_info": "[00时28分 ~ 07时26分]"
         },
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 21时50分]"
+        },
+        {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
           "url": "https://www.zhihu.com/question/2021000785224287940",
           "source": "知乎",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时10分 ~ 16时35分]"
-        },
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时44分]"
         },
         {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
