@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T16:35:24.140269+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-03-29T17:33:13.540253+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             3,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时33分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -36,6 +37,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 09时59分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 17时33分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时26分]"
-        },
-        {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 16时35分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
