@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:26:51.134675+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-29T09:59:30.460384+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -15,11 +15,12 @@
             17,
             15,
             18,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时59分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -49,6 +50,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时26分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
