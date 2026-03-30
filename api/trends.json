@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T14:29:14.508103+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-03-30T16:21:03.284249+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 16时21分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -72,22 +73,24 @@
           "source": "知乎",
           "ranks": [
             12,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 16时21分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
           "url": "https://www.toutiao.com/trending/7622849000173178419/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 16时21分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -182,11 +185,12 @@
             14,
             16,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时21分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -200,8 +204,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时21分]"
         }
       ]
     },
