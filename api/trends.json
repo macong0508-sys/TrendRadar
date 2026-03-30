@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T18:13:46.426284+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-03-30T19:53:56.271751+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 19时53分]"
+        },
+        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
@@ -55,19 +69,6 @@
             20,
             17,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -206,11 +207,12 @@
             18,
             21,
             22,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 18时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 19时53分]"
         }
       ]
     },
