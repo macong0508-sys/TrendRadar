@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:53:56.271751+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-03-30T21:08:11.615070+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             13,
             16,
             20,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时51分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[12时51分 ~ 21时08分]"
         },
         {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
@@ -208,11 +209,12 @@
             21,
             22,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 19时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 21时08分]"
         }
       ]
     },
