@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T01:51:34.586848+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-03-31T02:54:15.890734+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -30,11 +30,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         }
       ]
     }
