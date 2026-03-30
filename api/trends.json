@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T12:52:11.104750+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-30T14:29:14.508103+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -56,17 +56,6 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
@@ -74,19 +63,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时29分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
           "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时29分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -96,8 +86,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时29分]"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时29分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "DeepSeek服务出现重大中断",
@@ -133,15 +146,15 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "豆包谈DeepSeek频繁崩溃",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek已恢复服务",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "DeepSeek崩了，约12小时仍未完成修复",
@@ -168,11 +181,12 @@
             12,
             14,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时29分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -186,8 +200,25 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI Codex负责人：IDE已死",
+          "url": "https://www.toutiao.com/trending/7622296303033090111/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 14时29分]"
         }
       ]
     }
