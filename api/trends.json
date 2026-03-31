@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T19:44:43.204360+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-03-31T21:07:06.350313+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -39,11 +39,23 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            25
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时07分]"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时44分]"
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -63,7 +75,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
