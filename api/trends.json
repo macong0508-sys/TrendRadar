@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T14:18:59.228700+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-04-09T16:17:59.312670+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时17分]"
         },
         {
           "title": "央视曝光黑中医馆骗局",
