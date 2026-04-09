@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T21:15:45.262946+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-04-09T23:18:50.860133+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
@@ -112,7 +112,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -145,7 +145,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
@@ -168,8 +168,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 23时18分]"
         },
         {
           "title": "央视曝光黑中医馆骗局",
