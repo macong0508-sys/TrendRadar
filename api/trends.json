@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-11T02:44:26.221363+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-11T03:40:37.261509+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时40分]"
+        },
+        {
+          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
+          "url": "https://flash.jin10.com/detail/20260411024613347800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "03时40分"
         }
       ]
     }
