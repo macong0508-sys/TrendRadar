@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T13:58:26.882221+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-04-11T15:02:35.185836+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -50,22 +50,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 15时02分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时02分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
