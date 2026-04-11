@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:02:35.185836+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-04-11T16:37:35.780971+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时37分]"
+        },
+        {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
           "url": "https://wallstreetcn.com/livenews/3086151",
           "source": "华尔街见闻-快讯",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时18分 ~ 15时02分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时02分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
