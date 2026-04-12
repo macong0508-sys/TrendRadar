@@ -1,53 +1,22 @@
 {
-  "generated_at": "2026-04-12T23:32:46.802113+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-04-13T00:33:14.863850+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 23时32分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时05分]"
-        },
-        {
-          "title": "OpenAI CEO住所遭袭",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
