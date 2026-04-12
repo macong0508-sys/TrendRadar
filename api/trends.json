@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:42:17.124869+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-04-12T18:35:39.819003+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时35分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
