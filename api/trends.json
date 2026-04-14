@@ -1,59 +1,8 @@
 {
-  "generated_at": "2026-04-14T23:10:56.087860+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-04-15T01:01:55.093130+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 15时24分]"
-        },
-        {
-          "title": "火药味十足！OpenAI高管点名Anthropic“虚增80亿美元营收”",
-          "url": "https://flash.jin10.com/detail/20260414151445573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
-          "url": "https://flash.jin10.com/detail/20260414124747645800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -66,25 +15,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
+          "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
+          "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "提示词",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
+          "url": "https://flash.jin10.com/detail/20260415004937638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
