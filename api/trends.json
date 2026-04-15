@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:39:15.292849+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-04-15T10:02:02.516417+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -106,27 +106,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "keyword_group": "提示词",
+      "match_count": 2,
       "titles": [
         {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
-          "source": "华尔街见闻",
+          "title": "上海一公司发现他人使用相同提示词生成高度相似画作，要求停止侵权并赔偿，这算侵权吗？",
+          "url": "https://www.zhihu.com/question/2014736483773280662",
+          "source": "知乎",
           "ranks": [
-            10,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "提示词",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
         {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
           "url": "https://flash.jin10.com/detail/20260415004937638800",
@@ -138,6 +131,25 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时02分]"
         }
       ]
     }
