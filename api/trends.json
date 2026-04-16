@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T15:25:38.690771+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-04-16T17:14:51.876096+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             8,
             22,
             10,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 15时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 17时14分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
