@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T13:24:08.878216+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-04-17T15:26:47.511063+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时26分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
