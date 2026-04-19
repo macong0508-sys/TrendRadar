@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:35:41.214051+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-04-19T19:32:24.545044+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 18时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 19时32分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 18时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 19时32分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -80,11 +80,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 19时32分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
