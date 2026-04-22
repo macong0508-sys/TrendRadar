@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T05:46:41.350670+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-04-23T06:43:28.375727+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时43分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
