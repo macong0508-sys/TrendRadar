@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:04:27.869032+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-04-23T21:16:47.582372+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌：将在奥地利开设首个数据中心，创造100个就业岗位。",
@@ -44,6 +44,17 @@
           "time_info": "[04时49分 ~ 05时46分]"
         },
         {
+          "title": "谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
           "url": "https://wallstreetcn.com/livenews/3092822",
           "source": "华尔街见闻-快讯",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -131,7 +153,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -156,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
