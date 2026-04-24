@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T03:48:50.266641+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-25T04:42:06.065398+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -50,8 +50,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -67,20 +81,6 @@
           "time_info": "[00时51分 ~ 02时42分]"
         },
         {
-          "title": "月之暗面与DeepSeek的“听牌”时刻",
-          "url": "https://www.toutiao.com/trending/7632324048923397668/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
-        },
-        {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
@@ -88,24 +88,12 @@
             16,
             11,
             7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
-        },
-        {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
             12,
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -115,11 +103,12 @@
             14,
             13,
             24,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -129,11 +118,12 @@
             16,
             20,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -146,8 +136,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -157,8 +147,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -168,6 +158,20 @@
             26,
             24,
             25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时42分]"
+        },
+        {
+          "title": "月之暗面与DeepSeek的“听牌”时刻",
+          "url": "https://www.toutiao.com/trending/7632324048923397668/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -200,8 +204,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3094294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
           "url": "https://wallstreetcn.com/livenews/3094203",
@@ -304,7 +319,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
