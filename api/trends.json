@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:41:47.325952+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-04-26T04:34:36.001507+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "DeepSeek如何适配国产芯片",
@@ -79,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时34分]"
         }
       ]
     }
