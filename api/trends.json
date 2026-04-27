@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T20:21:37.665985+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-04-27T23:04:09.526403+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -185,6 +185,17 @@
           "time_info": "[18时58分 ~ 18时59分]"
         },
         {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
@@ -195,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 16时14分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -220,6 +242,17 @@
           "time_info": "[10时15分 ~ 16时14分]"
         },
         {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
           "source": "澎湃新闻",
@@ -235,8 +268,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
         {
           "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
           "url": "https://wallstreetcn.com/livenews/3094729",
