@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T18:59:08.563898+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-27T20:21:37.665985+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,17 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时15分 ~ 20时21分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://wallstreetcn.com/livenews/3094547",
           "source": "华尔街见闻-快讯",
@@ -87,15 +98,16 @@
           "time_info": "[00时38分 ~ 07时35分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时15分 ~ 18时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时15分 ~ 20时21分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -124,28 +136,17 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时15分 ~ 18时59分]"
-        },
-        {
           "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
           "url": "https://www.cls.cn/detail/2356575",
           "source": "财联社热门",
           "ranks": [
             11,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 20时21分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
