@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T13:54:56.246385+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-04-28T16:16:05.568803+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -122,7 +122,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -161,7 +161,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -172,9 +172,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -194,7 +205,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
