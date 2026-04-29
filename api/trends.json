@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T20:15:06.237124+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-04-29T23:09:04.290280+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时51分 ~ 20时15分]"
+          "appearance_count": 10,
+          "time_info": "[07时51分 ~ 23时09分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时53分 ~ 20时15分]"
+          "appearance_count": 11,
+          "time_info": "[06时53分 ~ 23时09分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -55,6 +56,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时53分 ~ 13时50分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时09分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -114,17 +129,16 @@
           "time_info": "06时53分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            6
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时09分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -223,17 +237,6 @@
           "time_info": "[01时44分 ~ 03时27分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
           "url": "https://flash.jin10.com/detail/20260429025003263800",
           "source": "金十数据",
@@ -291,11 +294,12 @@
             9,
             2,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 20时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时09分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -350,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -378,7 +382,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
