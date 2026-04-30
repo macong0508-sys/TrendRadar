@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:03:10.748281+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-04-30T10:32:06.696422+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时01分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
@@ -105,7 +116,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -190,7 +201,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
@@ -210,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 07时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 10时32分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -220,11 +231,12 @@
           "ranks": [
             13,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 07时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 10时32分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
