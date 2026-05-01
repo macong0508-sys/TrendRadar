@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T22:52:10.546548+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-05-01T23:53:52.659552+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时49分 ~ 22时52分]"
+          "appearance_count": 14,
+          "time_info": "[06时49分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -30,8 +31,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时49分 ~ 22时52分]"
+          "appearance_count": 14,
+          "time_info": "[06时49分 ~ 23时53分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时57分 ~ 23时53分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -45,20 +61,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时48分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时57分 ~ 22时52分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -98,6 +100,18 @@
           "time_info": "[14时12分 ~ 16时57分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -108,17 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时49分 ~ 10时37分]"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -182,11 +185,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时15分 ~ 22时52分]"
+          "appearance_count": 20,
+          "time_info": "[01时15分 ~ 23时53分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
