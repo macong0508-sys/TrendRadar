@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T17:19:33.920158+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-03T18:51:33.403982+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 18时51分]"
         },
         {
           "title": "DeepSeek评世界杯转播权僵局",
