@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:51:33.403982+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-05-03T19:39:22.285634+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 19时39分]"
         },
         {
           "title": "DeepSeek评世界杯转播权僵局",
