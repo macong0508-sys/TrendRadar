@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-05-04T14:02:01.602325+08:00",
-  "total_titles_processed": 874,
-  "failed_sources": [
-    "bilibili-hot-search",
-    "cls-hot"
-  ],
+  "generated_at": "2026-05-04T16:37:22.696904+08:00",
+  "total_titles_processed": 1031,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
@@ -19,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时37分]"
         }
       ]
     }
