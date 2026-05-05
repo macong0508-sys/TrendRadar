@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T10:23:23.570865+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-05-05T13:39:08.922660+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 10时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 13时39分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -58,6 +59,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 13时39分]"
         }
       ]
     }
