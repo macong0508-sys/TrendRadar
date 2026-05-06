@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T00:02:53.820678+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-07T01:49:11.099357+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时49分]"
         },
         {
           "title": "DeepSeek被曝投后估值或达450亿美元？消息人士：“双方确实在进行洽谈 但估值还未最终确认”",
@@ -57,11 +58,12 @@
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时49分]"
         }
       ]
     }
