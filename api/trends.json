@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T05:54:08.160236+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-05-08T06:59:11.475010+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[02时20分 ~ 06时59分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
