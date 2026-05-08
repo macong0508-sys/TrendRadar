@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:23:31.176410+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-08T17:13:15.567754+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时20分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[02时20分 ~ 17时13分]"
         },
         {
           "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
@@ -29,7 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
