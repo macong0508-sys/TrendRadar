@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:46:36.485248+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-05-09T21:06:00.851784+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时44分 ~ 19时46分]"
+          "appearance_count": 9,
+          "time_info": "[13时44分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -43,11 +43,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时06分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -55,11 +56,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -151,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 19时46分]"
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 21时06分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -161,11 +163,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 21时06分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -175,8 +178,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 21时06分]"
         }
       ]
     },
@@ -196,8 +199,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 21时06分]"
         }
       ]
     }
