@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T01:45:20.964665+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-05-10T02:54:08.618691+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时54分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时54分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时54分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时54分]"
         }
       ]
     }
