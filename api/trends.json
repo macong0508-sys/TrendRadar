@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:39:15.317458+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-10T06:38:15.428878+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 06时38分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 06时38分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -41,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 06时38分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -52,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[03时55分 ~ 06时38分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 06时38分]"
         }
       ]
     },
@@ -83,11 +84,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33135943",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 06时38分]"
         }
       ]
     }
