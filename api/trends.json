@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T22:48:16.157532+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-10T23:47:52.886503+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时47分 ~ 22时48分]"
+          "appearance_count": 24,
+          "time_info": "[00时47分 ~ 23时47分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -55,11 +56,12 @@
           "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时47分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -151,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时47分]"
         }
       ]
     },
