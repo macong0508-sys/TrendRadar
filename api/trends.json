@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:41:43.997149+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-05-11T07:46:26.853930+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时46分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -30,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时46分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -42,8 +43,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时46分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
