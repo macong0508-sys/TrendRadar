@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:50:05.631110+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-15T19:52:04.040883+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Codex登陆ChatGPT手机App",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时06分]"
+        },
+        {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
