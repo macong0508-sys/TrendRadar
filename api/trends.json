@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T10:32:02.051815+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-05-16T13:50:32.416282+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时52分]"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
@@ -98,7 +109,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
