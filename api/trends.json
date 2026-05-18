@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-19T03:40:45.141339+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-19T05:07:13.981311+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
         {
           "title": "法官驳回埃隆·马斯克对OpenAI及其CEO奥尔特曼的诉讼",
           "url": "https://flash.jin10.com/detail/20260519013301611800",
@@ -25,7 +36,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         }
@@ -41,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 05时07分]"
         }
       ]
     }
