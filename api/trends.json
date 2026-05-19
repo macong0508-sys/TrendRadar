@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T19:58:34.910929+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-05-19T23:23:14.622181+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -65,26 +65,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://wallstreetcn.com/livenews/3105984",
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "23时23分"
+        },
         {
           "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
           "url": "https://www.cls.cn/detail/2374982",
@@ -96,6 +90,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 19时58分]"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://wallstreetcn.com/livenews/3105984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         }
       ]
     },
