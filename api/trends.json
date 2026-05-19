@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T12:56:53.556056+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-05-19T16:24:08.874115+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         }
       ]
     },
