@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T15:41:26.756455+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-05-20T18:54:08.891446+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 15时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 18时54分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -183,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -321,7 +321,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
