@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T14:50:37.289653+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-05-21T18:37:14.849094+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -207,8 +207,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
+        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
@@ -241,7 +252,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
