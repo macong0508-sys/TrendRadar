@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T03:48:12.349029+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-22T05:24:41.151643+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 03时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 05时24分]"
         },
         {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -36,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
@@ -73,11 +73,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 03时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 05时24分]"
         }
       ]
     }
