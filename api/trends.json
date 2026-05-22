@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:42:04.739501+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-22T22:28:59.288630+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260522222139981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
@@ -79,8 +90,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
         {
           "title": "不小心把DeepSeek叫成豆包",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
@@ -105,11 +127,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 22时28分]"
         }
       ]
     }
