@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T12:58:23.332260+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-05-22T16:22:28.552294+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "source": "微博",
           "ranks": [
             6,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 16时22分]"
         }
       ]
     }
