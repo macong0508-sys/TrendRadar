@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T15:17:04.346589+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-05-25T19:50:10.914904+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "ranks": [
             12,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
@@ -65,7 +66,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -82,7 +83,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
