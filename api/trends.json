@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-05-27T22:28:53.576071+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-05-28T01:56:21.526019+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
-          "url": "https://www.zhihu.com/question/12005197517",
-          "source": "知乎",
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时39分]"
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
