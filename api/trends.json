@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T18:42:09.457338+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-05-29T21:56:29.272209+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时56分]"
         }
       ]
     },
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 21时56分]"
         },
         {
           "title": "OpenAI启动生物防御计划",
@@ -93,7 +93,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
