@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T11:32:36.645780+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-04T16:16:09.814800+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
@@ -47,9 +47,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "谷歌(GOOG.O)在网站上推出Gemma 4 12B。",
