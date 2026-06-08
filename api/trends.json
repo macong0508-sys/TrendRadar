@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T07:01:31.640816+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-08T08:16:29.116276+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 08时16分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 08时16分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 08时16分]"
         }
       ]
     }
