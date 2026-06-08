@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T08:16:29.116276+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-06-08T13:27:58.940594+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -47,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 08时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 13时27分]"
         }
       ]
     }
