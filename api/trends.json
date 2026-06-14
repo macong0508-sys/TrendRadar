@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T17:26:06.710896+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-06-14T19:53:42.825380+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 19时53分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
