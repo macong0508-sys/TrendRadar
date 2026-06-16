@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-06-16T20:09:24.492060+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-06-17T02:01:11.312721+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek完成500亿融资",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "百度热搜",
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
           "ranks": [
-            15
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.toutiao.com/trending/7651579346738855979/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
+        },
+        {
+          "title": "DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
         }
       ]
     }
