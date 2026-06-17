@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:07:05.000451+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-06-17T19:44:13.377378+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -39,22 +39,24 @@
           "url": "https://www.zhihu.com/question/2050261467174101567",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 19时44分]"
         },
         {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 19时44分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -141,7 +143,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
