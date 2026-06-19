@@ -1,89 +1,22 @@
 {
-  "generated_at": "2026-06-19T22:53:44.765552+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-06-20T01:15:23.003719+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek正式上线识图模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时23分 ~ 19时17分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 的识图模式？",
-          "url": "https://www.zhihu.com/question/2032903059739767247",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 19时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            10,
-            12,
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 22时53分]"
-        },
-        {
-          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3121908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "标普500指数初步收涨1.2%，科技板块涨2.7%，可选消费、电信板块涨超1%，能源板块跌2.1%。 纳斯达克100指数初步收涨2.6%，成分股中，闪迪初步收涨11.2%，英特尔涨10%，美光涨9%，谷歌A涨1.4%，Strategy跌3%，特许通讯跌4.3%，CTSH跌10.4%。 卡特彼勒涨3.7%，迪士尼、英伟达涨约3%，领跑道指成分股。费城半导体指数涨6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3121876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "01时15分"
         }
       ]
     }
