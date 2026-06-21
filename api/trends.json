@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-06-21T23:52:37.499847+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-06-22T01:24:39.568477+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -29,14 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            10,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     }
