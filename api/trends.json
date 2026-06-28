@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T20:15:12.379436+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-28T22:46:30.401415+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -34,17 +34,6 @@
           "time_info": "[01时05分 ~ 07时10分]"
         },
         {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
@@ -59,16 +48,68 @@
           "time_info": "[01时05分 ~ 07时10分]"
         },
         {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时46分]"
+        },
+        {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 22时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -112,34 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         }
       ]
     }
