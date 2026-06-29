@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T07:07:20.427314+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-29T10:56:51.268439+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时56分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -43,11 +43,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时56分]"
         }
       ]
     }
