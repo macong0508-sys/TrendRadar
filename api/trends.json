@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T03:02:52.558766+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-30T05:22:18.280589+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 05时22分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -25,7 +26,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -42,7 +43,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
