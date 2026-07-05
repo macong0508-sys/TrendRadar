@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T17:40:07.738413+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-07-05T19:28:02.951672+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时28分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
