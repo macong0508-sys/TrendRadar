@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T16:18:28.806856+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-07-08T19:02:14.200587+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时59分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时02分]"
         }
       ]
     },
