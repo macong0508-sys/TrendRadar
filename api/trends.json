@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T19:53:01.402447+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-09T22:46:27.015469+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -54,6 +54,28 @@
           "time_info": "[01时25分 ~ 05时02分]"
         },
         {
+          "title": "Altman不知是否今年IPO，称：OpenAI最新AI模型在智能体编程中Token效率提升54%",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "OpenAI推出GPT-Live语音模型",
           "url": "https://wallstreetcn.com/livenews/3130838",
           "source": "华尔街见闻-快讯",
@@ -63,6 +85,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（在被问及2026年上市计划时）“尚不清楚”。",
+          "url": "https://flash.jin10.com/detail/20260709221617441800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（就美国政府持有OpenAI股份的相关报道）其中存在诸多不实之处。",
+          "url": "https://flash.jin10.com/detail/20260709221534485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI最新的AI模型在代理型编程任务中，令牌效率提升了54%。",
+          "url": "https://flash.jin10.com/detail/20260709221515042800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI在与政府沟通后已做出“诸多调整”。",
+          "url": "https://flash.jin10.com/detail/20260709221325723800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：微软将继续是我们最大的客户之一。",
+          "url": "https://flash.jin10.com/detail/20260709221227214800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
