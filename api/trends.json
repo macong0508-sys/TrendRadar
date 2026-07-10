@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-10T07:08:24.951385+08:00",
-  "total_titles_processed": 554,
-  "failed_sources": [],
+  "generated_at": "2026-07-10T10:31:52.248431+08:00",
+  "total_titles_processed": 733,
+  "failed_sources": [
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
+          "url": "https://www.zhihu.com/question/2058734226548250080",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
           "url": "https://flash.jin10.com/detail/20260710010752704800",
@@ -40,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 03时37分]"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
