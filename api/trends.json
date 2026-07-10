@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-10T18:20:19.241445+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-10T21:08:43.729391+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 21时08分]"
+        },
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
           "url": "https://www.zhihu.com/question/2058734226548250080",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 18时20分]"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
