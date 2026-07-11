@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T10:46:37.896896+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-07-11T13:36:03.522405+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
           "url": "https://flash.jin10.com/detail/20260711093038446800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 13时36分]"
         },
         {
           "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
@@ -86,7 +87,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
