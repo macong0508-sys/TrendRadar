@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-14T09:59:24.525319+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-07-14T12:54:18.863300+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
