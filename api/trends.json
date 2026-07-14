@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:22:10.939112+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-07-14T23:21:03.289549+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek梁文锋成AI公司新首富",
@@ -56,11 +56,12 @@
           "ranks": [
             7,
             13,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 23时21分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -86,7 +87,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
