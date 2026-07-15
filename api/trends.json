@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T15:13:03.118338+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-07-15T17:59:11.979375+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -127,6 +127,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 07时49分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -150,6 +161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时48分 ~ 15时13分]"
+        },
+        {
+          "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
+          "url": "https://flash.jin10.com/detail/20260715172344196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
