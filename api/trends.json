@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T21:26:22.962647+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-07-15T23:23:36.820333+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
@@ -134,11 +134,12 @@
           "source": "微博",
           "ranks": [
             1,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时58分 ~ 23时23分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
