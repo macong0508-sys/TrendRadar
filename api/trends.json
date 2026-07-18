@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-19T01:54:24.575135+08:00",
-  "total_titles_processed": 360,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-07-19T02:56:26.902779+08:00",
+  "total_titles_processed": 393,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
@@ -14,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         }
       ]
     },
@@ -35,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时56分]"
         }
       ]
     }
