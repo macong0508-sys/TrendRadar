@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-19T22:51:19.930825+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-07-19T23:54:15.582465+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时47分 ~ 23时54分]"
+        },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
           "url": "https://www.zhihu.com/question/2061407401308152796",
@@ -24,17 +37,26 @@
           "time_info": "[00时52分 ~ 10时09分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
           "ranks": [
-            9,
-            5,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时47分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -54,6 +76,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 23时54分]"
+        },
+        {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3136067",
           "source": "华尔街见闻-快讯",
@@ -64,19 +100,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 07时48分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 22时51分]"
         },
         {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
