@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T02:58:51.954756+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-20T04:08:11.209804+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         }
       ]
     },
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         }
       ]
     }
