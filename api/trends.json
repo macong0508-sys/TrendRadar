@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T17:55:39.531447+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-07-20T20:14:09.246614+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 05时46分]"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         }
       ]
     },
