@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:51:05.387220+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-22T07:53:27.070825+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时53分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -80,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -183,8 +183,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时53分]"
         }
       ]
     }
