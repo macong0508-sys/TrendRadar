@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-23T05:06:04.261210+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-23T06:10:06.201369+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
+        },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
           "url": "https://flash.jin10.com/detail/20260723044833293800",
@@ -14,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -30,15 +41,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
+          "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
+          "url": "https://wallstreetcn.com/livenews/3138440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
@@ -47,7 +58,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
+          "url": "https://wallstreetcn.com/livenews/3138425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
@@ -69,9 +91,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "SK海力士(SKHY.O)美股盘后涨4.5%，美光科技(MU.O)涨2%，特斯拉(TSLA.O)跌3%，谷歌A(GOOGL.O)跌4%，",
+          "url": "https://flash.jin10.com/detail/20260723053142248800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
+          "url": "https://wallstreetcn.com/livenews/3138424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3138423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -80,7 +135,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -94,6 +149,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "【谷歌母公司上调全年资本开支预期】谷歌母公司Alphabet：预计全年资本开支1950亿-2050亿美元，原来预计1800亿-1900亿美元。仍然预计2027财年资本开支将“大幅”增长。",
+          "url": "https://wallstreetcn.com/livenews/3138414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "谷歌CFO：季度资本开支主要用于AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3138413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -109,8 +186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -120,8 +197,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -133,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -144,8 +221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -155,8 +232,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         }
       ]
     },
@@ -170,11 +247,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -184,8 +262,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时10分]"
         }
       ]
     }
