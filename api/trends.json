@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T20:20:57.321606+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-07-24T22:50:53.232443+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 22时50分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -38,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 22时50分]"
         },
         {
           "title": "新晋菲尔兹奖得主宣布加入OpenAI",
