@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:06:22.325818+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-07-25T21:13:53.080497+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时06分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时13分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -118,7 +119,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         }
