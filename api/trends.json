@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:49:51.149548+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-26T07:56:31.505121+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时56分]"
         },
         {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时56分]"
         }
       ]
     }
