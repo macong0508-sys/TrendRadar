@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:57:06.438644+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-07-30T07:58:29.332879+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -41,6 +41,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
           "url": "https://flash.jin10.com/detail/20260730003826526800",
           "source": "金十数据",
@@ -58,7 +69,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         }
