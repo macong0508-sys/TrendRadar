@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-07-30T03:07:44.627371+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-30T04:50:25.099396+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
+          "url": "https://wallstreetcn.com/livenews/3141802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
+          "url": "https://flash.jin10.com/detail/20260730003826526800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
@@ -35,45 +85,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
-          "url": "https://wallstreetcn.com/livenews/3141802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
-          "url": "https://flash.jin10.com/detail/20260730003826526800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
