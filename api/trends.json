@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:37:59.159961+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-08-01T22:56:33.350311+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时12分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时12分 ~ 22时56分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -122,8 +123,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时00分 ~ 22时56分]"
         },
         {
           "title": "DeepSeekV4Flash 便宜",
