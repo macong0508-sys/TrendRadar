@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T07:58:20.955623+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-08-01T10:38:18.411225+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -58,6 +58,18 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时38分]"
+        },
+        {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
           "url": "https://wallstreetcn.com/livenews/3143460",
           "source": "华尔街见闻-快讯",
@@ -70,15 +82,26 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
+          "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
+          "url": "https://flash.jin10.com/detail/20260801095559987800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时38分"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",
@@ -87,9 +110,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
+          "url": "https://flash.jin10.com/detail/20260801091854018800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -106,7 +140,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -129,11 +163,49 @@
             8,
             9,
             25,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 10时38分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
             5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            20,
+            17,
+            24,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时58分]"
+          "time_info": "[01时24分 ~ 10时38分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -146,20 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 03时17分]"
-        },
-        {
-          "title": "DeepSeek拟在内蒙古建超算中心",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            20,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 07时58分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -195,11 +253,12 @@
           "url": "https://wallstreetcn.com/livenews/3143502",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时38分]"
         },
         {
           "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
