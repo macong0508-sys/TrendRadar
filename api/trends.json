@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T20:01:55.748406+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-08-01T21:37:59.159961+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时12分 ~ 20时01分]"
+          "appearance_count": 6,
+          "time_info": "[16时12分 ~ 21时37分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -118,11 +118,12 @@
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
+          "appearance_count": 3,
+          "time_info": "[20时00分 ~ 21时37分]"
         },
         {
           "title": "DeepSeekV4Flash 便宜",
@@ -197,8 +198,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 20时01分]"
+          "appearance_count": 9,
+          "time_info": "[07时58分 ~ 21时37分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
