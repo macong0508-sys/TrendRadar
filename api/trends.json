@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:23:05.945976+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-08-02T22:58:22.754578+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             23,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时58分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -68,11 +69,12 @@
             4,
             10,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时58分 ~ 21时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时58分 ~ 22时58分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
