@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T19:58:51.390743+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-08-02T21:23:05.945976+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             6,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 21时23分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek又发重磅更新",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%88%E5%8F%91%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         }
       ]
     },
@@ -59,8 +71,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 19时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 21时23分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
