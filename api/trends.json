@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:24:55.875518+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-05T05:07:00.639307+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             6,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时07分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时07分]"
         },
         {
           "title": "中国版“生物DeepSeek”诞生",
@@ -26,17 +38,6 @@
           "ranks": [
             7,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时24分]"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -56,8 +57,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时07分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
