@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T17:33:05.610034+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-08-05T19:56:18.297390+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时41分 ~ 08时02分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时56分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 03时24分]"
-        },
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "DeepSeek重启融资 投前估值5000亿元",
