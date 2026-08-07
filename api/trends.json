@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:44:30.460580+08:00",
-  "total_titles_processed": 342,
+  "generated_at": "2026-08-08T02:47:23.327442+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时47分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -99,8 +100,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时47分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时47分]"
         }
       ]
     }
