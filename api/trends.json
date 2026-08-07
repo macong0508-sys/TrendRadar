@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:56:42.635431+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-08-07T18:48:19.373511+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -32,8 +32,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[08时38分 ~ 18时48分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 17时56分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -78,8 +78,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时48分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
