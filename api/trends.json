@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:46:41.172279+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-08-07T13:37:10.328549+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 13时37分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 13时37分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -43,16 +56,15 @@
           "time_info": "[08时38分 ~ 11时46分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时38分 ~ 11时46分]"
+          "time_info": "[13时36分 ~ 13时37分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -100,7 +112,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
