@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:27:23.438000+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-08T01:44:30.460580+08:00",
+  "total_titles_processed": 342,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时44分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -98,8 +99,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时44分]"
         }
       ]
     },
@@ -112,11 +113,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时44分]"
         }
       ]
     }
