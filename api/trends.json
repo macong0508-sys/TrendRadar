@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:27:33.662553+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-08-08T19:24:00.121614+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 19时24分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -129,11 +129,12 @@
             18,
             14,
             12,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时49分 ~ 18时27分]"
+          "appearance_count": 19,
+          "time_info": "[03时49分 ~ 19时24分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -163,11 +164,12 @@
             20,
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时27分 ~ 18时27分]"
+          "appearance_count": 22,
+          "time_info": "[01时27分 ~ 19时24分]"
         }
       ]
     }
