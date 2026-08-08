@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:42:56.663560+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-08-08T15:44:27.703013+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时49分 ~ 14时42分]"
+          "appearance_count": 13,
+          "time_info": "[03时49分 ~ 15时44分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -138,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 15时44分]"
         }
       ]
     },
@@ -163,8 +164,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时27分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[01时27分 ~ 15时44分]"
         }
       ]
     }
