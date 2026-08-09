@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-09T13:01:40.694433+08:00",
-  "total_titles_processed": 774,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-08-09T13:49:46.510638+08:00",
+  "total_titles_processed": 819,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
@@ -53,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时49分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
