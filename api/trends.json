@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-08-10T23:57:03.249793+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-08-11T00:51:59.463729+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek为何重启融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
-        },
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -40,16 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            4,
-            3,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时49分 ~ 23时57分]"
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
