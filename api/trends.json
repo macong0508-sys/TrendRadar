@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T09:24:23.380127+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-08-12T12:03:06.517498+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -179,11 +179,12 @@
             19,
             14,
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 12时03分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
