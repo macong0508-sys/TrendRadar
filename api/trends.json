@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-13T07:35:53.678364+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-08-13T09:26:31.452481+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 09时26分]"
+        },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
@@ -20,26 +32,41 @@
           "time_info": "[00时53分 ~ 07时35分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            13,
+            16,
+            23,
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时35分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 09时26分]"
         },
         {
-          "title": "DeepSeek重磅更新 V4Pro正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "09时26分"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -53,19 +80,16 @@
           "time_info": "05时40分"
         },
         {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            16,
-            23,
-            20,
-            18
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 09时26分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -102,6 +126,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 02时55分]"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -145,6 +191,17 @@
           "time_info": "[02时55分 ~ 03时59分]"
         },
         {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 09时26分]"
+        },
+        {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
           "source": "金十数据",
@@ -154,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
         },
         {
           "title": "谷歌：推出谷歌Pixel Tag。",
