@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T02:56:17.454282+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-14T03:55:16.787445+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -60,11 +60,12 @@
           "ranks": [
             2,
             4,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -87,8 +88,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
+        },
+        {
+          "title": "如何看待 Deepseek Harness 发布？",
+          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 03时55分]"
+        },
+        {
+          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
+          "url": "https://www.zhihu.com/question/2071348486667237276",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -104,41 +132,17 @@
           "time_info": "[00时52分 ~ 02时56分]"
         },
         {
-          "title": "如何看待 Deepseek Harness 发布？",
-          "url": "https://www.zhihu.com/question/2071331484284220938",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时56分]"
-        },
-        {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 02时56分]"
-        },
-        {
           "title": "DeepSeek发布调价公告",
           "url": "https://www.douyin.com/hot/2608709",
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时55分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -256,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
