@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:49:10.215187+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-15T02:46:24.567166+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 02时46分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 02时46分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 02时46分]"
         }
       ]
     },
@@ -54,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 02时46分]"
         }
       ]
     }
