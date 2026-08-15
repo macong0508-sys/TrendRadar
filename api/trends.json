@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:18:37.590494+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-08-15T19:15:57.126298+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时48分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时48分 ~ 19时15分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -51,8 +51,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时48分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时48分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -86,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 19时15分]"
         }
       ]
     },
@@ -126,7 +126,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
