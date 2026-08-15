@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T11:34:58.673677+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-08-15T12:24:53.815015+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时48分 ~ 11时34分]"
+          "appearance_count": 13,
+          "time_info": "[01时48分 ~ 12时24分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -43,11 +43,12 @@
           "ranks": [
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时48分 ~ 11时34分]"
+          "appearance_count": 13,
+          "time_info": "[01时48分 ~ 12时24分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -65,11 +66,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时24分]"
         }
       ]
     },
@@ -107,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时24分]"
         }
       ]
     },
